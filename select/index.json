@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "racy",
+  "base_artist": "a子",
+  "createdAt": "2026-03-12T12:28:52.942504Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Racy Lacey",
+      "artist": "Girls Aloud",
+      "has_synced": true,
+      "path": "select/01_Racy_Lacey_Girls_Aloud.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Racy Lacey",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/02_Racy_Lacey_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Racy Lacey",
+      "artist": "Girls Aloud",
+      "has_synced": true,
+      "path": "select/03_Racy_Lacey_Girls_Aloud.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Racy",
+      "artist": "Hooray for Earth",
+      "has_synced": true,
+      "path": "select/04_Racy_Hooray_for_Earth.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Racy",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/05_Racy_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Racy Lacey (UK Bonus Track)",
+      "artist": "Girls Aloud",
+      "has_synced": true,
+      "path": "select/06_Racy_Lacey_(UK_Bonus_Track)_Girls_Aloud.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "racy",
+      "artist": "a子",
+      "has_synced": false,
+      "path": "select/pl_01_racy_a子.txt"
+    }
+  ]
+}
